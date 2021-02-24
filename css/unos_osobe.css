@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    background-color: rgba(255, 255, 255, 0.5);
+    background-size: cover;
+    background-size: cover;
+    max-width: 800px;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+
+input[type=text] {
+    width: 60%;
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+
+h1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 40px;
+}
+
+button {
+    padding: 20px;
+    width: 30%;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.napomena {
+    margin-bottom: 30px !important;
+}
+
+.checkbox_label {
+    font-size: 20px;
+}
+
+.more_options h1 {
+    margin-bottom: 20px;
+}
+
+.more_options select {
+    width: 37%;
+    margin-bottom: 10px;
+}
+
+.more_options label[for="tip_osobnosti"] {
+    font-size: 17px;
+}
+
+.more_options label[for="date"] {
+    font-size: 17px;
+}
+
+.more_options input[type="date"] {
+    width: 46%;
+}
+
+.more_options label[for="teleoperater"] {
+    font-size: 17px;
+}
+
+.teleoperater {
+    width: 25.5% !important;
+}
+
+

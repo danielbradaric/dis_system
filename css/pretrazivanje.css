@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    background-color: rgba(255, 255, 255, 0.5);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+
+}
+
+input[type=text] {
+    width: 60%;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+button {
+    padding: 10px;
+    width: 30%;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+table {
+    background-color: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    margin-left: 10%;
+    width: 80%;
+    text-align: center;
+    margin-top: 1%;
+    font-size: 18px;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+th, td {
+    padding: 5px 12px;
+}
+
+table tr td a {
+    text-decoration: none;
+    color: blue;
+}
+
+table tr td a:hover {
+    color: black;
+}

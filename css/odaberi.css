@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-space {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 80px;
+    font-size: 50px;
+    margin-top: 150px;
+}
+
+button {
+    background-color: transparent;
+    border-style: none;
+    font-size: 43px;
+}
+
+button:hover {
+    color: blue;
+}
+
+ul {
+    padding-left: 0;
+}
+
+body {
+    line-height: 1.2;
+}

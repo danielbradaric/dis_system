@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("../images/login.jpg");
+    background-size: cover;
+    line-height: 1.2 !important;
+}
+
+.glavni-izbornik {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.glavni-izbornik li {
+    list-style: none;
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.glavni-izbornik li a {
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 15px;
+    text-transform: uppercase;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.glavni-izbornik li a:hover {
+    color: blue;
+}
+
+.white-space {
+    background-color: rgba(255, 255, 255, 0.5);
+    margin-top: 80px;
+    max-width: 80%;
+    margin-left: 150px;
+}
+
+.white-space h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.row {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+
+ul {
+    padding-left: 0 !important;
+}
+
+.settings_icon {
+    margin-left: 480px !important;
+    position:absolute;
+    margin-top: 15px;
+}
+
+.odjava {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: transparent;
+    border-style: none;
+    margin-left: 530px !important;
+    text-decoration: none;
+}

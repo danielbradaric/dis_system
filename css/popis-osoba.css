@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.unos_osobe {
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    margin-left: 20px;
+    max-width: 20%;
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 20px !important;
+}
+
+.unos_osobe a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.unos_osobe a:hover {
+    color: blue;
+}
+
+table {
+    background-color: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    margin-left: 10%;
+    width: 80%;
+    text-align: center;
+    margin-top: 1%;
+    font-size: 18px;
+    padding: 20px;
+}
+
+th, td {
+    padding: 5px 12px;
+}
+
+table tr td a {
+    text-decoration: none;
+    color: blue;
+}
+
+table tr td a:hover {
+    color: black;
+}
+
+.popis_forma button {
+    background-color: transparent;
+    font-size: 18px;
+    color: blue;
+    border-style: none;
+    font-family: "Times New Roman";
+}
+
+.popis_forma button:hover {
+    cursor: pointer;
+    color: black;
+}

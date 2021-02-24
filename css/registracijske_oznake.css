@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.novi_auto {
+    background-color: rgba(255, 255, 255, 0.5);
+    margin-top: 20px;
+    padding: 20px;
+    width: 20%;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.novi_auto a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.white-space {
+    margin-left: 0px;
+    margin-right: 150px;
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.novi_auto a:hover {
+    color: blue;
+}
+
+table {
+    background-color: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    margin-left: 10%;
+    width: 80%;
+    text-align: center;
+    margin-top: 1%;
+    font-size: 18px;
+    padding: 20px;
+}
+
+th, td {
+    padding: 5px 12px;
+}
+
+table tr td a {
+    text-decoration: none;
+    color: blue;
+}
+
+table tr td a:hover {
+    color: black;
+}
