@@ -8,3 +8,5 @@ people, cars, and real estate.
 The project has main action, system actions, js, and CSS folders. In actions, a folder is stored PHP files that communicate with the MySQL database. 
 In the system, actions are HTML and PHP files what are direct user interface files.
 JS folder is javascript files folder, and in CSS folder is CSS files.
+
+For this project, I also used Bootstrap framework for osoba.php file.
